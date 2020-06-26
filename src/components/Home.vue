@@ -1,7 +1,7 @@
 <template>
     <section>
         <navigation></navigation>
-        <h5 class="center-align">vraj</h5>
+        <h5 class="center-align">BoardGames</h5>
     </section>
 </template>
 

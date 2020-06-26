@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "oc-boardgames-85ef0"
+    "default": "oc-boardgames-85ef0",
+    "staging": "oc-boardgames-85ef0"
   }
 }
